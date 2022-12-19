@@ -1,1 +1,1 @@
-# fitness
+# I created a application in swift that uses CoreMotion to track the number of steps a user takes in a day. The steps are shown in a easy to read user interface. The app also allows the user to count the number of glasses of water the user has drank throughtout the day. In the future I am going to add a goal feature where the user can set a goal of how many daily steps they would like to complete, and when they complete it they get a notification.
